@@ -16,7 +16,7 @@
 
    <img src="img3.PNG" />
 
-7. Execute the test cases provided in the test folder
+7. Execute the test cases by clicking on the test button, there is no need to pass the class name as a parameter.
 
    
 
