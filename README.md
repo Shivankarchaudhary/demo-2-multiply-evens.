@@ -16,7 +16,7 @@
 
    <img src="img3.PNG" />
 
-7.There are no test cases for this solution
+7. Execute the test cases provided in the test folder
 
    
 
